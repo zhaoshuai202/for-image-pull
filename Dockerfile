@@ -1,0 +1,1 @@
+FROM gcr.io/distroless/base-debian11@sha256:90d2b87d0c7298ac404233ed082c7aa11bd51d60f50cd77b812f61c05c3b01a3
